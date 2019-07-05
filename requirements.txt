@@ -1,2 +1,2 @@
 wxPython==4.0.6
-Telethon==1.80
+Telethon==1.8.0
