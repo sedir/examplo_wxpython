@@ -2,7 +2,11 @@
 # Created by https://www.gitignore.io/api/code,linux,macos,python,windows,pycharm+all,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=code,linux,macos,python,windows,pycharm+all,visualstudiocode
 
+
+config.json
+*.session
 ### Code ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
